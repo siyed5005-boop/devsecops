@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.*;
 import tn.esprit.spring.entities.User;
 import tn.esprit.spring.services.IUserService;
 
-//m
+
 
 @RestController // = @Controller + @ResponseBody 
 @RequestMapping("/user")
@@ -48,6 +48,7 @@ public class UserRestControl {
 	public void removeUser(@PathVariable("user-id") String userId) { 
 		userService.deleteUser(userId);
 	} 
+	// http://localhost:????/timesheet-devops/modify-user 
 
 	// Modifier User 
 	// http://localhost:????/timesheet-devops/modify-user 
