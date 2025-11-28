@@ -46,6 +46,16 @@ public class SecurityTestController {
       // ❌ TEST : Secrets exposés
    // Variables sensibles en dur
       // ❌ TEST : Secrets exposés
+        // Variables sensibles en dur
+      // ❌ TEST : Secrets exposés
+   // Variables sensibles en dur
+   
+   // ❌ TEST : Secrets exposés
+   // Variables sensibles en dur
+      // ❌ TEST : Secrets exposés
+   // Variables sensibles en dur
+      // ❌ TEST : Secrets exposés
+      // ❌ TEST : Secrets exposés
       // ❌ TEST : Secrets exposés
    // Variables sensibles en dur
    private String dbPassword = "admin123"; // ❌ hardcoded password
