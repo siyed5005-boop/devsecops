@@ -6,6 +6,8 @@ import java.sql.*;
 @RestController
 @RequestMapping("/security-test")
 public class SecurityTestController {
+   // ❌ INJECTION SQL TRÈS EXPLICITE
+   // ❌ INJECTION SQL TRÈS EXPLICITE
 
    // ❌ INJECTION SQL TRÈS EXPLICITE
    @GetMapping("/login-unsafe")
