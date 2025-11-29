@@ -85,7 +85,7 @@ public class SecurityTestController {
    // ❌ TEST : Secrets exposés
    // Variables sensibles en dur
       // ❌ TEST : Secrets exposhs
-      // ❌ TEST : Secrets exposés
+      // ❌ TEST : Secrets exposéss
    // Variables sensibles en dur
    // ❌ TEST : Secrets exposés
    // Variables sensibles en dur
